@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading;
 
-namespace ConcurrentRandom
+namespace Util
 {
     public class ConcurrentRandom
     {
